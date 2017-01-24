@@ -45,6 +45,4 @@ public class Movie {
         this.numberPages = numberPages;
     }
     
-    
-    
 }
