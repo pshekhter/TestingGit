@@ -16,6 +16,7 @@ public class TestingGit {
      */
     public static void main(String[] args) {
         Movie carriie = new Movie("Carrie", "Stephen King", 180);
+        Movie theShining = new Movie("The Shining", "Stephen King", 330);
     }
     
 }
